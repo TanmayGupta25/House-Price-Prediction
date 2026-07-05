@@ -1,0 +1,12 @@
+{
+    "Project Name": "House Price Prediction",
+    "Dataset Name": "Bengaluru House Data",
+    "Target Column": "price",
+    "Problem Type": "Regression",
+    "Best Model": "XGBoost",
+    "R2 Score": 0.4863114684745663,
+    "MAE": 40.75011517003492,
+    "MSE": 10936.705256583316,
+    "RMSE": 104.57870364746026,
+    "Date Created": "2026-07-05T20:14:44.854573"
+}
